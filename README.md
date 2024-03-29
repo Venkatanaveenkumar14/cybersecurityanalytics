@@ -1,4 +1,4 @@
-# Demonstration codes for IST 820
+# Demonstration codes for IST 820- Cybersecurity Analytics
 
 ## Required packages
 
@@ -14,7 +14,7 @@ scikit-learn
 
 ## Overview
 
-This repository contains demonstration codes and data for students to use in IST 820. The problem is to detect DNS cache poisoning attack with deep learning approaches. Data are provided in the "Data" directory, and four example models are provided in the "Model" directory. There exist four tasks:
+This repository contains demonstration codes and data for students to use in IST 820. The problem is to detect DNS cache poisoning attacks with deep learning approaches. Data are provided in the "Data" directory, and four example models are provided in the "Model" directory. There exist four tasks:
 
 - Task 1: Load the given models and data, and then evaluate the models' performances.
 
@@ -24,4 +24,3 @@ This repository contains demonstration codes and data for students to use in IST
 
 - Task 4: Train traditional machine learning models for the same problem. In this demonstration, the random forest model is chosen.
 
-Each task is accompanied with instructions in the corresponding folder.
